@@ -1,4 +1,7 @@
-### Hi there 👋
+### hi! welcome to my github, i'm reiczel ᡣ𐭩
+### i'm currently working on: 
+### ⋆ Bug Wars, a battle simulator using bugs you can program yourself!
+### ⋆ Yinder, an application that mixes Yelp and Tinder together to swipe left/right on your favorite foodie spots!
 
 <!--
 **zelbael/zelbael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
